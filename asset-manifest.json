@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/preschool-games/static/css/main.f855e6bc.css",
-    "main.js": "/preschool-games/static/js/main.cb48dd31.js",
+    "main.js": "/preschool-games/static/js/main.03702bdb.js",
     "static/js/453.1d1db615.chunk.js": "/preschool-games/static/js/453.1d1db615.chunk.js",
     "static/media/logo.svg": "/preschool-games/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/preschool-games/index.html",
     "main.f855e6bc.css.map": "/preschool-games/static/css/main.f855e6bc.css.map",
-    "main.cb48dd31.js.map": "/preschool-games/static/js/main.cb48dd31.js.map",
+    "main.03702bdb.js.map": "/preschool-games/static/js/main.03702bdb.js.map",
     "453.1d1db615.chunk.js.map": "/preschool-games/static/js/453.1d1db615.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.cb48dd31.js"
+    "static/js/main.03702bdb.js"
   ]
 }
