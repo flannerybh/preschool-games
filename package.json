@@ -1,5 +1,5 @@
 {
-  "name": "preschool-game",
+  "name": "preschool-games",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,6 +40,6 @@
   "devDependencies": {
     "gh-pages": "^6.2.0"
   },
-  "homepage": "https://flannerybh.github.io/preschool-game/"
+  "homepage": "https://flannerybh.github.io/preschool-games/"
 
 }
