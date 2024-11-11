@@ -35,7 +35,7 @@ function App() {
     if(k === "Backspace") {
        setUserInput((prev) => prev.slice(0, -1));
       return;
-    }else if(k < 'z' & k >= 'a') {
+    }else if(k <= 'z' & k >= 'a') {
         setUserInput((prev) => prev + event.key);
     }
 
