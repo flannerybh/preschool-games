@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/preschool-games/static/css/main.f855e6bc.css",
-    "main.js": "/preschool-games/static/js/main.583f2698.js",
-    "static/js/453.16f07977.chunk.js": "/preschool-games/static/js/453.16f07977.chunk.js",
-    "static/media/logo.svg": "/preschool-games/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/preschool-games/index.html",
-    "main.f855e6bc.css.map": "/preschool-games/static/css/main.f855e6bc.css.map",
-    "main.583f2698.js.map": "/preschool-games/static/js/main.583f2698.js.map",
-    "453.16f07977.chunk.js.map": "/preschool-games/static/js/453.16f07977.chunk.js.map"
+    "main.css": "/preschool-game/static/css/main.f855e6bc.css",
+    "main.js": "/preschool-game/static/js/main.f6103c95.js",
+    "static/js/453.16f07977.chunk.js": "/preschool-game/static/js/453.16f07977.chunk.js",
+    "static/media/logo.svg": "/preschool-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/preschool-game/index.html",
+    "main.f855e6bc.css.map": "/preschool-game/static/css/main.f855e6bc.css.map",
+    "main.f6103c95.js.map": "/preschool-game/static/js/main.f6103c95.js.map",
+    "453.16f07977.chunk.js.map": "/preschool-game/static/js/453.16f07977.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.583f2698.js"
+    "static/js/main.f6103c95.js"
   ]
 }
