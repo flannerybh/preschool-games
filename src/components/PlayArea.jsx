@@ -28,7 +28,7 @@ function App() {
   let [word, setWord] = useState("hello");
   let [score, setScore] = useState(0);
 
-  let [userInput, setUserInput] = useState(" ");
+  let [userInput, setUserInput] = useState("");
 
   const handleKeyPress = (event) => {
     let k = event.key;
@@ -44,7 +44,7 @@ function App() {
   useEffect(() => {
     if (userInput.trim() === word) {
       setScore((prev) => prev + 1);
-      setUserInput(" ");
+      setUserInput("");
       setWord(listOfWords[Math.floor(Math.random() * listOfWords.length)]);
     }
   }, [userInput, word]);

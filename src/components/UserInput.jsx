@@ -5,7 +5,9 @@ export  const UserInput = (props) => {
 
     return (
         <div style={{"letter-spacing": ".15rem"}}>
-            {input && input.split().map(c => <div>{c}</div>)}
+            {input && input.split("").map((c, i) => <span style={{color: (
+                c === goal[i] ? "black" : "red"
+            )}}>{c}</span>)}
         </div>
     );
 };
